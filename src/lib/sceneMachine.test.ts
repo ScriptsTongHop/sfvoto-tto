@@ -232,7 +232,7 @@ test('ẩn các trường rỗng trong thông tin dự án', () => {
   });
 
   assert.deepEqual(populated.optionalLines, [
-    'Trường: THPT Nguyễn Du',
+    'Trường: THCS VP2',
     'Lớp: 11A1',
     'Giáo viên hướng dẫn: Cô Lan',
   ]);
