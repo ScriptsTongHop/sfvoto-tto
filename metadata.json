@@ -1,0 +1,6 @@
+{
+  "name": "Cấu tạo ô tô điện — Dự án của Chí Hiếu",
+  "description": "Khám phá cấu tạo ô tô điện: động cơ, biến tần, hộp giảm tốc, pin cao áp, sạc và phanh tái sinh qua giao diện tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
