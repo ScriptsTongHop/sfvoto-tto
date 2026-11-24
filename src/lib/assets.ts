@@ -1,4 +1,4 @@
-// Đường dẫn gốc chứa toàn bộ hình ảnh và video từ kho lưu trữ công khai
+
 export const ASSET_BASE =
   'https://raw.githubusercontent.com/amirmushichge/veyra-interactive-car/v1.0.0/public/media/';
 
