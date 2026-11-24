@@ -1,4 +1,4 @@
-/* Cấu tạo ô tô điện — Dự án của Chí Hiếu — 2026 */
+
 import { useRef, useState } from 'react';
 import { AboutDialog } from './components/AboutDialog';
 import { Credits } from './components/Credits';
